@@ -24,8 +24,8 @@ repository               : "awoodring29/awoodring29.github.io"
 author:
   # Biographic information
   avatar           : "Woodring.jpg"
-  name             : "Biographic information" 
-  bio              : "PhD student studying machine learning and formal privacy guarantees."
+  name             : "Links and basic information" 
+  bio              : "PhD student studying machine learning and differential privacy at NC State University"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/awoodring29"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
