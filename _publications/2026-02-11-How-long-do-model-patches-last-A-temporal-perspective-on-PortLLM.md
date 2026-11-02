@@ -6,6 +6,7 @@ permalink: /publication/2026-02-11-How-long-do-model-patches-last-A-temporal-per
 excerpt: 
 date: 2026-02-11
 venue: 'Preprint'
+slidesurl: 
 paperurl: ['OpenReview'](https://openreview.net/forum?id=axp6zNdvUo)
 bibtexurl: 
 citation: 
