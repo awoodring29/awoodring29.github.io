@@ -17,9 +17,9 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[1] **Abigail Woodring**, Adrian Chan, Rana Muhammad Shahroz Khan, Sukwon Yun, Chau-Wai Wong, and Tianlong Chen, “The blessing of dimensionality: How near-orthogonality in high-dimensional spaces explains temporal portability,” under review for *Journal of Machine Learning Research (JMLR)*. [[arXiv](https://arxiv.org/abs/2607.20301)] [[Source Code](https://github.com/awoodring29/TemporalPortLLM)]
+
+[2] Adrian Chan, **Abigail Woodring**, Rana Shahroz, Sukwon Yun, Chau-Wai Wong, Tianlong Chen, “How long do model patches last? A temporal perspective on PortLLM,” Preprint. [[OpenReview](https://openreview.net/forum?id=axp6zNdvUo)]
 
 Awards
 ======
@@ -31,16 +31,16 @@ Awards
 
 Research Experience
 ======
-Machine Learning with Sensitive Data Using Differential Privacy, Sept. 2025 - Present 
+**Machine Learning with Sensitive Data Using Differential Privacy**, Sept. 2025 - Present 
 * Uncovered failure in standard private learning algorithm via mathematical analysis of gradient descent steps
 * Developing algorithm to alleviate this failure by focusing on the direction of the perturbed gradient descent steps
 
-Joint Experimental and Theoretical Study of LLM’s Portability, Feb. - Jul. 2026 
+**Joint Experimental and Theoretical Study of LLM’s Portability (led to first-authored paper [1])**, Feb. - Jul. 2026 
 * Conducted large-scale experiments on ten discrete pretraining phases for Mistral, Gemma, and Qwen models and fine-tuned and evaluated on WinoGrande, BoolQ, ARC-Easy, and ARC-Challenge datasets to unveil the temporal portability of LoRA patches on evolved LLMs
 * Devised two mathematical analyses on LLM parameters and LoRA patches to discover the root cause of experimentally observed temporal portability
 * Revealed that near-orthogonality of high-dimensional vectors is fundamental to both analyses, with potential to be used as a general tool to compare LLM patching strategies
 
- Statistical Algorithms to Forecast LLM’s Portability
+ **Statistical Algorithms to Forecast LLM’s Portability (led to second-authored paper [2])**, Feb. 2025 - Jan. 2026
  * Derived hypothesis test to forecast performance and showed an AUC above 0.8 for 5 out of 8 test scenarios
  * Developed statistical estimation algorithm to forecast performance and showed statistical significance (p-value<0.05) for 65 out of 72 test cases
  * Contributed 4 out of 9 pages to the main text of the paper and 10 out of 14 pages to the paper’s appendices 
