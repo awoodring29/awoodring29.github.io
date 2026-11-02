@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+I am a PhD student at NC State University studying machine learning. Driven by the conviction that mathematics is simultaneously useful and beautiful, I enjoy doing research that is both practically relevant and theoretically rigorous. My research focus is in formal privacy definitions, such as differential privacy and its variants, and how these definitions can be used in a machine learning setting. Practical concerns drive what kind of privacy we are interested in and feasible implementation constraints. Theoretical rigor allows formal privacy guarantees and provides methods to improve privacy-utility tradeoffs. 
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -50,6 +54,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
+-->
 
 For more info
 ------
