@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -65,3 +65,5 @@ Work experience
 * Engineering Design Intern, Eaton, Summer 2023
   * Compiled list of repeated errors in group of nearly 1,000 wiring drawing sets by checking 30 sets
   * Corrected errors in 400 drawing sets using AutoCAD
+
+[View PDF resume](https://awoodring29.github.io/files/resume.pdf)
